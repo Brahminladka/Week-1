@@ -65,8 +65,6 @@ Contributions, issues, and feature requests are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## 👤 Author
 Your Name
@@ -76,7 +74,3 @@ Your Name
 ## ⭐ Show your support
 Give a ⭐️ if this project helped you!
 
-## 📚 References
-- List any research papers, articles, or resources used
-- Link to original dataset source
-- Any relevant documentation
